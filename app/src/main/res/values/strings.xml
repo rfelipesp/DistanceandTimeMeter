@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Distance and Time Meter</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps_no_app">GPS must be enabled</string>
+    <string name="allowGPS">Grant GPS permission</string>
+    <string name="activateGPS">Activate GPS</string>
+    <string name="disableGPS">Disable GPS</string>
+    <string name="startroute">Start Route</string>
+    <string name="finishroute">Finish Route</string>
+    <string name="travelleddistance">Travelled Distance</string>
+    <string name="timespent">Time Spent</string>
+    <string name="lookfor">What do you want to look for?</string>
+    <string name="distanceTravelled">0 km 0 m</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Distance and Time Meter</string>
+    <string name="lookfor">Wonach möchten Sie suchen?</string>
+    <string name="distanceTravelled">0 km 0 m</string>
+    <string name="timespent">" Zeitaufwand"</string>
+    <string name="action_settings">" die Einstellungen"</string>
+    <string name="no_gps_no_app">GPS muss aktiviert sein</string>
+    <string name="allowGPS">GPS-Berechtigung erteilen</string>
+    <string name="disableGPS">" GPS deaktivieren"</string>
+    <string name="activateGPS">" Aktivieren Sie GPS"</string>
+    <string name="startroute">" Route starten"</string>
+    <string name="travelleddistance">" Zurückgelegte Strecke"</string>
+    <string name="finishroute">" Route beenden"</string>
+</resources>
